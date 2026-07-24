@@ -1,1 +1,114 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use — FormCompass AI</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #1a1a1a;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+    background: #ffffff;
+  }
+  h1 { font-size: 1.8rem; margin-bottom: 0.2rem; }
+  h2 { font-size: 1.15rem; margin-top: 2rem; margin-bottom: 0.4rem; }
+  p, li { font-size: 0.98rem; }
+  .effective { color: #666; font-size: 0.9rem; margin-bottom: 2rem; }
+  .lead { font-weight: 600; }
+  ul { padding-left: 1.4rem; }
+  li { margin-bottom: 0.4rem; }
+  .contact { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #e0e0e0; }
+  .highlight { background: #fafafa; border-left: 3px solid #ccc; padding: 0.8rem 1rem; margin: 1rem 0; }
+</style>
+</head>
+<body>
+
+<h1>Terms of Use</h1>
+<p class="effective">FormCompass AI &middot; Effective July 17, 2026</p>
+
+<h2>Acceptance of the Terms of Use</h2>
+<p>These Terms of Use ("Terms") are made effective as of July 17, 2026 by and between you ("User") and FormCompass AI ("Company," "we," "us"). By accessing and using our service ("Service"), the User acknowledges that they have read, understood, and agreed to be bound by these Terms and the Company Privacy Policy. If the User does not agree to these Terms, the User may not use the Service.</p>
+
+<h2>Age Requirements</h2>
+<p>The User must be 18 years or older to use the Service.</p>
+
+<h2>Description of the Service</h2>
+<p>The Service allows the User to submit videos of physical exercise, which are analyzed using automated technology to estimate muscle emphasis and provide feedback on lifting technique. The analysis is generated automatically and is provided for general informational and educational purposes only.</p>
+
+<h2>Not Medical or Professional Advice</h2>
+<div class="highlight">
+<p>The Service provides automated analysis of exercise technique for general informational and educational purposes only. It does <strong>not</strong> provide medical, physiotherapy, diagnostic, or professional coaching advice, and is not a substitute for consultation with a qualified professional. Always consult a physician or other qualified provider before beginning or modifying any exercise program, and particularly if you have any injury, health condition, or concern about your ability to exercise safely.</p>
+</div>
+
+<h2>Assumption of Risk</h2>
+<div class="highlight">
+<p>Physical exercise, including weightlifting, carries an inherent risk of injury. The Service's analysis is an automated estimate and may be inaccurate, incomplete, or may misinterpret your movement; it must not be relied upon as a definitive assessment of your form, technique, or safety. You perform all exercises and movements at your own risk and are solely responsible for exercising safely and within your own physical limits. To the fullest extent permitted by law, the Company is not liable for any injury, loss, or damage arising from your use of the Service or your reliance on its output.</p>
+</div>
+
+<h2>Use of the Service</h2>
+<p>The User agrees to use the Service only for lawful purposes and in compliance with all applicable laws and regulations. By using the Service, the User agrees not to engage in any activities that:</p>
+<ul>
+  <li>Violate any applicable local, national, or international laws or regulations, including those pertaining to the export of data or software.</li>
+  <li>Involve the transmission or solicitation of advertising or promotional material, including "junk mail," "chain letters," "spam," or any similar form of solicitation, without the Company's prior written consent.</li>
+  <li>Impersonate or attempt to impersonate the Company, a Company employee, another user, or any other person or entity.</li>
+  <li>Engage in any conduct that limits or inhibits the use or enjoyment of the Service by others, or that may harm the Company or its users or expose the Company to legal liability.</li>
+  <li>Interfere with or disrupt the functioning of the Service or violate the rights of others.</li>
+  <li>Attempt to gain unauthorized access to the Service, other users' accounts, or the Company's systems.</li>
+</ul>
+
+<h2>Subscriptions and Payment</h2>
+<p>The Service offers the following subscription options to access its features:</p>
+<ul>
+  <li><strong>Monthly plan</strong> — $9.99 per month.</li>
+  <li><strong>Six-month plan</strong> — $39.99 charged once, covering a six-month period.</li>
+</ul>
+<p>Each plan grants a set number of analyses per billing period, as described in the app at the time of purchase. Payment is charged to your Apple App Store or Google Play account upon confirmation of purchase.</p>
+<p>New users may be offered a free trial. Unless the subscription is cancelled before the end of the trial period, it will automatically convert to a paid subscription and your payment method will be charged.</p>
+<p>Subscriptions automatically renew at the end of each billing period (monthly or six-monthly, according to the plan chosen) until cancelled. You can manage or cancel your subscription at any time in your Apple App Store or Google Play account settings. Cancellation takes effect at the end of the current billing period, and you will retain access until then. Except where required by law, payments already made are non-refundable. Analysis credits already granted to your account do not expire upon cancellation.</p>
+
+<h2>User Content</h2>
+<p>You retain ownership of the videos you submit to the Service ("User Content"). By submitting User Content, you grant the Company a limited licence to store, process, and analyze it solely for the purpose of providing the Service to you, including processing by the third-party services described in our Privacy Policy. The Company does not claim ownership of your videos and uses them only to generate your analysis result. You are responsible for ensuring you have the right to submit any User Content and that doing so does not violate the rights of any other person.</p>
+
+<h2>Output</h2>
+<p>The analysis and feedback produced by the Service ("Output") are generated automatically. Because the Service uses automated and machine-learning technology, the Output may not be unique and the Service may produce similar or identical results for different users. The Output is provided for your personal, informational use.</p>
+
+<h2>Intellectual Property</h2>
+<p>All intellectual property rights in the Service itself, including its software, design, and trademarks, are owned by or licensed to the Company. You may not copy, modify, reverse-engineer, or distribute the Service or reproduce any part of it without our prior written consent. This does not affect your ownership of your own User Content as described above.</p>
+
+<h2>Accuracy and Limitation of Liability</h2>
+<p>The Service is provided on an "as is" and "as available" basis, and the Company makes no warranties or representations regarding its accuracy, reliability, or suitability for any purpose. The User accepts that the Company is not liable for failures related to inaccurate analysis, performance-related failures, or other quality-based issues. To the fullest extent permitted by law, the Company shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from or in connection with the use of the Service. Any reliance the User places on information provided by the Service is done strictly at the User's own risk.</p>
+
+<h2>Indemnification</h2>
+<p>The User agrees to indemnify and hold the Company harmless from all claims, losses, expenses, and fees, including reasonable legal fees, that may be asserted against the Company arising from the User's act or omission in connection with the use of the Service.</p>
+
+<h2>Termination</h2>
+<p>The Company reserves the right to suspend or terminate the User's access to the Service at any time, without prior notice, for any reason, including but not limited to violation of these Terms. The User may stop using the Service and delete their account at any time from within the app.</p>
+
+<h2>Amendment</h2>
+<p>The Company reserves the right to change these Terms from time to time. Changes are effective when posted. The User's continued use of the Service after such modifications constitutes acknowledgment of, and agreement to be bound by, the modified Terms.</p>
+
+<h2>Governing Law and Disputes</h2>
+<p>These Terms, and any dispute or claim arising out of or relating to them or to the Service, shall be governed by and construed in accordance with the laws of Sweden. The parties will first attempt to resolve any dispute through good-faith negotiation. Any dispute that cannot be resolved through negotiation shall be subject to the exclusive jurisdiction of the courts of Sweden, without prejudice to any mandatory consumer-protection rights the User may have under the laws of their country of residence.</p>
+
+<h2>Entire Agreement</h2>
+<p>These Terms, together with the Company's Privacy Policy, constitute the entire agreement between the User and the Company with respect to the Service and supersede all prior understandings and agreements, whether written or oral.</p>
+
+<h2>Disclaimer</h2>
+<p>The Service uses automated and experimental technology, and the User should use discretion before relying on any Output. The Company makes no guarantees regarding the accuracy, completeness, or usefulness of the analysis. The Company assumes no liability or responsibility for any reliance placed on the Output by the User or any other person.</p>
+
+<div class="contact">
+<p class="lead">Contact</p>
+<p>FormCompass AI welcomes your questions or comments regarding these Terms.</p>
+<p>
+Email: formcompassai@gmail.com<br>
+Address: Sickla Strand 51, Stockholm, Sweden, 13134
+</p>
+</div>
+
+</body>
+</html>
